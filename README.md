@@ -19,5 +19,5 @@ It's my first Python module to practice writing clean, reusable code with functi
 No install needed. Just clone the repo and use the file directly.
 
 ```bash
-git clone https://github.com/your-username/simple-calculator
-cd simple-calculator
+git clone https://github.com/Iyosiprograming/First_python_module
+cd First_python_module
